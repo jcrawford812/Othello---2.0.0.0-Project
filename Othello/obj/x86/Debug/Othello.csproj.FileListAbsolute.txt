@@ -1,0 +1,31 @@
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\bin\Debug\Othello.exe.manifest
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\bin\Debug\Othello.application
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\bin\Debug\Othello.exe
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\bin\Debug\Othello.pdb
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\_Othello.Properties.Resources.resources
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.exe.manifest
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.application
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.exe
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.pdb
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.TrustInfo.xml
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.Form1.resources
+C:\Users\Jake\Desktop\Capstone\008 - Chess\008 - Chess\008\obj\x86\Debug\Othello.uC.resources
+C:\Users\Jake\Desktop\Capstone\Othello\008\obj\x86\Debug\Othello.exe
+C:\Users\Jake\Desktop\Capstone\Othello\008\obj\x86\Debug\Othello.pdb
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.exe
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.pdb
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\bin\Debug\Othello.exe.manifest
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\bin\Debug\Othello.application
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\_Othello.Properties.Resources.resources
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.uC.resources
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.csproj.GenerateResource.Cache
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.TrustInfo.xml
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.exe.manifest
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.application
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\_Othello.ChooseSide.resources
+C:\Users\Jake\Desktop\Capstone\Othello\Othello\obj\x86\Debug\Othello.Board.resources
